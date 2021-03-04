@@ -1,0 +1,4 @@
+# ---- march/9/2019
+#[x] todo = add other languages in WebSiteRecon->modules->GetCodeLang.py [test.py]
+
+# [] todo = Must work on sqlinjection classic methods march/31/2019

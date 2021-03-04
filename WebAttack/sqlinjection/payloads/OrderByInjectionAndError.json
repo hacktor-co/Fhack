@@ -1,0 +1,21 @@
+{
+  "mysql": {
+
+    "payload" : [
+      "oRdeR BY value %23",
+      "gRoUp bY value %23"
+    ],
+
+    "error" : [
+      "column 'number' in 'order clause'",
+      "in 'order clause'",
+      "You have an error in your SQL syntax",
+      "You have an error in File",
+      "mysql_fetch_array()",
+      "ORDER BY data DESC",
+      "Unknown column '1000' in 'group statement'",
+      "oRdeR BY number # ORDER BY",
+      "order by number # ORDER BY data DESC"
+    ]
+  }
+}
